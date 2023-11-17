@@ -1,0 +1,15 @@
+[33mcommit 9c6c1fe6a98db1e3d15d56c6bb220e97814fb5ef[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: jaro <inteliconn@gmail.com>
+Date:   Fri Nov 17 12:37:04 2023 +0100
+
+    first commit
+user.email=inteliconn@gmail.com
+user.name=jaro
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=git@github.com:Jaro13/2023-python-digital.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.main.remote=origin
+branch.main.merge=refs/heads/main
